@@ -5,6 +5,7 @@ bam_otter-userdebug jellybean
 bam_otter2-userdebug jellybean
 bam_tate-userdebug jellybean
 # ASUS
+bam_deb-userdebug jellybean
 bam_flo-userdebug jellybean
 bam_grouper-userdebug jellybean
 bam_tf101-userdebug jellybean
@@ -40,6 +41,7 @@ bam_shooteru-userdebug jellybean
 bam_shootervm-userdebug jellybean
 bam_ville-userdebug jellybean
 # HUAWEI
+bam_u8815-userdebug jellybean
 bam_u8860-userdebug jellybean
 # LGE
 bam_e970-userdebug jellybean
@@ -155,3 +157,5 @@ bam_pollux-userdebug jellybean
 bam_pollux_windy-userdebug jellybean
 bam_tsubasa-userdebug jellybean
 bam_yuga-userdebug jellybean
+# XIAOMI
+bam_aries-userdebug jellybean
